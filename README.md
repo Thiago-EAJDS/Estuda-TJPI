@@ -62,6 +62,6 @@ Abaixo estão os espaços reservados para a adição de imagens e capturas de te
 | ![Dashboard Admin](./docs/assets/dashboard-preview.png) | ![Cadastro de Questões](./docs/assets/form-preview.png) |
 
 ### Interface do Usuário / Estudo
-| Resolução de Questões | Visualizador de Provas em PDF |
+| Resolução de Questões | 
 | :---: | :---: |
-| ![Resolução de Questões](./docs/assets/questions-preview.png) | ![PDF Viewer](./docs/assets/pdf-preview.png) |
+| ![Resolução de Questões](./docs/assets/questions-preview.png) | 
