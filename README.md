@@ -7,15 +7,6 @@ Plataforma full-stack desenvolvida para gerenciamento de provas, questões e con
 ## 🛠️ Tecnologias Utilizadas
 
 * **Backend:** NestJS, TypeScript, Node.js
-* **Frontend:** Next.js, React, Tailwind CSreadme_content = """# Concursos App - Plataforma de Gestão e Estudo para Concursos
-
-Plataforma full-stack desenvolvida para gerenciamento de provas, questões e controle de acesso a conteúdos preparatórios para concursos públicos. O sistema conta com painel administrativo modernizado, controle de limites freemium e integração robusta com banco de dados relacional.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* **Backend:** NestJS, TypeScript, Node.js
 * **Frontend:** Next.js, React, Tailwind CSS
 * **Banco de Dados:** PostgreSQL
 * **ORM:** Prisma ORM (v5.22)
