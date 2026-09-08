@@ -62,6 +62,4 @@ Abaixo estão os espaços reservados para a adição de imagens e capturas de te
 | ![Dashboard Admin](./docs/assets/dashboard-preview.png) | ![Cadastro de Questões](./docs/assets/form-preview.png) |
 
 ### Interface do Usuário / Estudo
-| Resolução de Questões | 
-| :---: | :---: |
 | ![Resolução de Questões](./docs/assets/questions-preview.png) | 
